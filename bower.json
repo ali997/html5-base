@@ -1,0 +1,21 @@
+{
+  "name": "html5-base",
+  "version": "1.0.0",
+  "homepage": "http://code4.pl",
+  "authors": [
+    "Artur Bartczak <artur.bartczak@code4.pl>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor"
+  ],
+  "dependencies": {
+    "modernizr": "2.8.2",
+    "jquery": "1.11.1",
+    "bootstrap": "3.2.0",
+    "respond": "1.4.2"
+  }
+}
